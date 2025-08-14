@@ -1,0 +1,14 @@
+PS C:\Users\smart> docker exec -it three_tier_db psql -U app -d appdb
+psql (15.13)
+Type "help" for help.
+
+appdb=# /dt
+appdb-# ls
+appdb-# \dt
+       List of relations
+ Schema | Name  | Type  | Owner
+--------+-------+-------+-------
+ public | items | table | app
+(1 row)
+
+appdb-# select * FROM items;
