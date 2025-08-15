@@ -83,3 +83,23 @@ docker compose up --build
 - Frontend: http://localhost:3000 (modify based on your setup)
 - Backend API: http://localhost:3001/api (adjust accordingly)
 ---
+
+## Usage
+
+- **Frontend:** Navigate to the UI and follow the on-screen instructions (e.g., create, read, update, delete functionality).
+- **Backend API:** Use tools like curl or Postman:
+```plaintext
+curl http://localhost:3001/api/resource
+```
+---
+## Environment Variables
+
+Below are common  ```plaintext .env```  variables (modify as necessary):
+
+1. **Frontend** – user interface (e.g., React, Vue, or plain HTML/JS)  
+2. **Backend** – RESTful API (e.g., Node.js/Express)  
+3. **Database** – PostgreSQL for persistent storage  
+
+All services are containerized and configured via Docker Compose for easy deployment and development.
+
+---
