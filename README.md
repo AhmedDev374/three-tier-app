@@ -40,3 +40,21 @@ All services are containerized and configured via Docker Compose for easy deploy
 │ Frontend ├───HTTP──► Backend ├───SQL──► PostgreSQL DB     │
 │          │        │          │        │                  │
 └──────────┘        └──────────┘        └──────────────────┘
+
+---
+
+---
+
+## Prerequisites
+
+Before running the project, ensure you have the following installed on your system:
+
+1. **Docker** – (version X.X or later)
+2. **Docker Compose** – (version X.X or later)
+
+You can verify your setup with:
+
+```plaintext
+docker --version
+docker compose version
+
