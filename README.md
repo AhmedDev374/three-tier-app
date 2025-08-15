@@ -44,8 +44,6 @@ All services are containerized and configured via Docker Compose for easy deploy
 
 ---
 
----
-
 ## Prerequisites
 
 Before running the project, ensure you have the following installed on your system:
@@ -58,4 +56,30 @@ You can verify your setup with:
 ```plaintext
 docker --version
 docker compose version
+```
 
+---
+
+## Installation & Setup
+
+1. **Clone the repository**:
+```plaintext
+git clone https://github.com/AhmedDev374/three-tier-app.git
+cd three-tier-app
+```
+
+2. **Copy the environment template (if applicable):**:
+```plaintext
+cp .env.example .env
+```
+Then open .env and set your environment variables (DB credentials, ports, etc.).
+
+3. **Start all services using Docker Compose:**:
+```plaintext
+docker compose up --build
+```
+
+3. **Access the application:**:
+Frontend: http://localhost:3000 (modify based on your setup)
+Backend API: http://localhost:3001/api (adjust accordingly)
+---
