@@ -150,6 +150,8 @@ Contributions are welcome! Please:
 
 For questions or feedback, reach out to Ahmed at
 
+![Three-Tier Architecture](img.jpg)
+
 1. **LinkDin**: https://eg.linkedin.com/in/ahmed-atef-elnadi-8165a51b9
 
 ---
