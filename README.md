@@ -16,7 +16,6 @@
 - [Environment Variables](#environment-variables)  
 - [Project Structure](#project-structure)  
 - [Testing](#testing) *(if applicable)*  
-- [Contributing](#contributing)  
 - [Contact](#contact)  
 
 ---
@@ -134,17 +133,6 @@ npm test
 cd frontend
 npm test
 ```
-
----
-
-## Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repo
-2. Create a feature branch (```git checkout -b feature/foo```)
-3. Commit your changes (```git commit -m 'Add feature'```)
-4. Push and open a Pull Request
 
 ---
 
