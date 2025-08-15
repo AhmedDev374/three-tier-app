@@ -80,7 +80,6 @@ docker compose up --build
 ```
 
 3. **Access the application:**:
-Frontend: http://localhost:3000 (modify based on your setup)
-
-Backend API: http://localhost:3001/api (adjust accordingly)
+- Frontend: http://localhost:3000 (modify based on your setup)
+- Backend API: http://localhost:3001/api (adjust accordingly)
 ---
