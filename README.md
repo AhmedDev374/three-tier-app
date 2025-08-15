@@ -1,3 +1,5 @@
+![Three-Tier Architecture](img.jpg)
+
 # Three-Tier App
 
 > A full-stack three-tier application combining a frontend, backend, and PostgreSQL database, orchestrated with Docker Compose.
@@ -150,7 +152,7 @@ Contributions are welcome! Please:
 
 For questions or feedback, reach out to Ahmed at
 
-![Three-Tier Architecture](img.jpg)
+
 
 1. **LinkDin**: https://eg.linkedin.com/in/ahmed-atef-elnadi-8165a51b9
 
