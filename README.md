@@ -94,7 +94,7 @@ curl http://localhost:3001/api/resource
 ---
 ## Environment Variables
 
-Below are common  ```plaintext .env```  variables (modify as necessary):
+Below are common  ```.env```  variables (modify as necessary):
 
 1. **Frontend** – user interface (e.g., React, Vue, or plain HTML/JS)  
 2. **Backend** – RESTful API (e.g., Node.js/Express)  
