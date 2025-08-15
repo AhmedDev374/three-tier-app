@@ -40,6 +40,7 @@ All services are containerized and configured via Docker Compose for easy deploy
 │ Frontend ├───HTTP──► Backend ├───SQL──► PostgreSQL DB     │
 │          │        │          │        │                  │
 └──────────┘        └──────────┘        └──────────────────┘
+```
 
 ---
 
