@@ -17,7 +17,7 @@
 - [Project Structure](#project-structure)  
 - [Testing](#testing) *(if applicable)*  
 - [Contact](#contact)  
-
+- [License](#license)  
 ---
 
 ## Overview
